@@ -1,0 +1,209 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.a1:hover{
+    text-decoration: none;
+    color: black;
+}
+.a1{
+    font-size: 40px;
+    text-decoration: none;
+    color: black;
+}
+.center_right{
+    width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.center{
+    margin-top: 50px;
+    height: 60px;
+    text-align: center;
+}
+.center1{
+    text-align: center;
+}
+.center_img{
+    height: 330px;
+    text-align: center;
+}
+.icont{
+    display: flex;
+    justify-content: space-evenly;
+}
+.img1{
+    width: 100px;
+    height: 100px;
+}
+.img2{
+    height: 270px;
+    width: 360px;
+    text-align: center;
+}
+.p1{
+    margin-top: 20px;
+    height: 60px;
+    font-size: 40px;
+    color: rgb(4, 179, 4);
+}
+.p2{
+    font-size: 18px;
+}
+.div{
+    display: block;
+}
+.product{
+    clear: both;
+    margin-bottom: 100px;
+    text-align: center;
+    width: 100%;
+}
+.product .product_title{
+    height: 42px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #2dae36;
+}
+.show{
+    border-top-left-radius: 25%;
+    border-bottom-right-radius: 25%;
+    width: 120px;
+    height:42px;
+    background: #2dae36;
+    font-size: 20px;
+    line-height: 42px;
+    text-align: center;
+    color: aliceblue;
+}
+.product_rigth{
+    width: 1450px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.mx_width{
+    padding-left: 10%;
+    padding-right: 10%;
+    box-sizing: border-box;
+}
+.mx_center{
+    margin-left: auto;
+    margin-right: auto;
+}
+.about{
+    margin-top: 30px;
+}
+.about_img1{
+    width: 100%;
+}
+.mx_navigation{
+    width: 100%;
+}
+
+.div_heard{
+    margin-top: 15px;
+}
+.footer{
+    padding-top: 24px;
+    padding-bottom: 16px;
+    box-sizing: border-box;
+    background-color: #ddd;
+    text-align: center;
+    color: #666;
+    clear: both;
+}
+.footer .changepage{
+    padding-top: 40px;
+}
+.footer .copyright{
+    font-size: 12px;
+    text-align: center;
+    line-height: 2.4em;
+}
+.map{
+    margin-top: -50px;
+    margin-bottom: 50px;
+}
+.map_txt{
+    height: 500px;
+    width: 500px;
+    text-align: center;
+    text-decoration: none;
+    text-align: left;
+    text-indent: 30px;
+    line-height: 30px;
+    font-size: 16px;
+}
+.list {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.zhsoshang1{
+    margin-top: -60px;
+    margin-bottom: 60px;
+}
+.zhaoshang_txt{
+    font-size: 42px;
+}
+.zhaoshang_txt2{
+    font-size: 20px;
+    color: green;
+}
+.zhaoshang2{
+    text-align: left;
+    font-size: 20px;
+    line-height: 20px;
+}
+.hr{
+    border-bottom: 1px dashed #2dae36;
+}
+.zhaoshang_img1{
+    height: 200px;
+    width: 280px;
+}
+.zhaoshang_txt3{
+    margin-top: 50xp;
+}
+.zhaoshang3{
+    margin-top: 90px;
+}
+.zhaoshang4{
+    width: 600px;
+}
+.zhaoshang_p{
+    font-size: 25px;
+    color: #2dae36;
+}
+.zhaoshang_p2{
+    font-size: 18px;
+    text-indent: 25px;
+    line-height: 30px;
+}
+.zhaoshang_p3{
+    font-size: 18px;
+    line-height: 25px;
+    text-indent: 25px;
+}
+.lianxi{
+    font-size: 50px;
+    margin-top: 40px;
+}
+.lianxi2{
+    margin-left: 200px;
+}
+.lianxi_img{
+    height: 80px;
+    width: 80px;
+}
+.border_right{
+    border-right: 1px solid #2dae36;
+    height: 170px;
+}
+.lianxi_img2{
+    height: 50px;
+    width: 50px;
+}
+.lianxi3{
+    margin-right: 400px;
+}
